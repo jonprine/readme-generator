@@ -1,7 +1,17 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `## Title
+  
+   ${data.project}
+  ## Description
 
+   ${data.description}
+  ## Installation
+
+   ${data.installation}
+  ## Usage
+
+   ${data.usage}
 `;
 }
 
