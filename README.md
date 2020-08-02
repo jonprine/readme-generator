@@ -1,19 +1,27 @@
-## Title
-readme-generator
+## README Generator
+
+## License
+![badge](https://img.shields.io/badge/license-None-brightgreen)<br />
 
 ## Description
-user inputs form to generate reademe
+a user answers questions related to the project and then a professional readme is generated 
 
 ## Table of Contents
 * [Installation](#installation:)
 * [Usage](#usage:)
 * [Credits](#credits:)
+* [Questions](#questions:)
+
 
 ## Installation
-install node.js
+https://github.com/jonprine/readme-generator
 
 ## Usage
-HTML, JavaScript, Node.js
+ JavaScript, Node.js
 
-## Credits
+## Additional Credits
 none
+
+## Questions
+Developed by: [jonprine](https://github.com/jonprine)<br />
+Should you have any further questions you can contant me here: jonprine@gmail.com
