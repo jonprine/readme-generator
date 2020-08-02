@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-None-brightgreen)<br />
 
 ## Description
-a user is asked a series of questions and from the user input a professional readme is generated.
+a user is asked a series of questions and then from user input a professional readme is generated.
 
 ## Table of Contents
 * [Installation](#installation:)
@@ -14,7 +14,7 @@ a user is asked a series of questions and from the user input a professional rea
 
 
 ## Installation
-https://drive.google.com/file/d/1GeqZe9RvxmIhxWfIg0ZGPsMMuE3qCfDq/view
+video here: https://drive.google.com/file/d/1GeqZe9RvxmIhxWfIg0ZGPsMMuE3qCfDq/view
 
 ## Usage
  JavaScript, Node.js
