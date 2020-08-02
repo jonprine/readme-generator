@@ -1,12 +1,11 @@
 ## Title
-  
-   readme
-  ## Description
+readme
 
-   chill
-  ## Installation
+## Description
+user generates readme after filling in prompts
 
-   install
-  ## Usage
+## Installation
+download node, fill out
 
-   read
+## Usage
+node javascript
