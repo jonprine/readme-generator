@@ -1,11 +1,19 @@
 ## Title
-readme
+readme-generator
 
 ## Description
-user generates readme after filling in prompts
+user inputs form to generate reademe
+
+## Table of Contents
+* [Installation](#installation:)
+* [Usage](#usage:)
+* [Credits](#credits:)
 
 ## Installation
-download node, fill out
+install node.js
 
 ## Usage
-node javascript
+HTML, JavaScript, Node.js
+
+## Credits
+none

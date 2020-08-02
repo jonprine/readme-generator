@@ -6,23 +6,39 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
         type: 'input',
+        name: 'name',
+        message: 'Please enter your Github username:'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please enter your email address:'
+    },
+    {
+        type: 'input',
         name: 'project',
         message: 'What is the title of your project?'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Give a description of your project.'
+        message: 'Give a short description of your project:'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Give installation instructions.'
+        message: 'Please list installation instructions for your project:'
     },
-    {   type: 'input',
-        name: 'usage',
-        message: 'What does user need to know about using the project'
+    {   type: 'checkbox',
+        name: 'stack',
+        message: 'What languages did you use for the project?',
+        choices: ['HTML', ' CSS', ' JavaScript', ' Node.js']
 
+    },
+    {
+        type: 'input',
+        name: 'credit',
+        message: 'List any collaborators you had on your project. If no collaborators enter "none":'
     }
 
 
