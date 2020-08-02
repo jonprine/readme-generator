@@ -1,10 +1,10 @@
-## README Generator
+## Readme Generator
 
 ## License
 ![badge](https://img.shields.io/badge/license-None-brightgreen)<br />
 
 ## Description
-a user answers questions related to the project and then a professional readme is generated 
+a user is asked a series of questions and from the user input a professional readme is generated.
 
 ## Table of Contents
 * [Installation](#installation:)
@@ -14,7 +14,7 @@ a user answers questions related to the project and then a professional readme i
 
 
 ## Installation
-https://github.com/jonprine/readme-generator
+https://drive.google.com/file/d/1GeqZe9RvxmIhxWfIg0ZGPsMMuE3qCfDq/view
 
 ## Usage
  JavaScript, Node.js
